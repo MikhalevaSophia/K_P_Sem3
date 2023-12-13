@@ -1,0 +1,9 @@
+C:\Users\mi\source\repos\е\bin\Debug\е.exe.config
+C:\Users\mi\source\repos\е\bin\Debug\е.exe
+C:\Users\mi\source\repos\е\bin\Debug\е.pdb
+C:\Users\mi\source\repos\е\obj\Debug\t_helper.csproj.AssemblyReference.cache
+C:\Users\mi\source\repos\е\obj\Debug\е.Properties.Resources.resources
+C:\Users\mi\source\repos\е\obj\Debug\t_helper.csproj.GenerateResource.cache
+C:\Users\mi\source\repos\е\obj\Debug\t_helper.csproj.CoreCompileInputs.cache
+C:\Users\mi\source\repos\е\obj\Debug\е.exe
+C:\Users\mi\source\repos\е\obj\Debug\е.pdb
